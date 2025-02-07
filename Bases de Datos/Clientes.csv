@@ -1,0 +1,21 @@
+﻿IdCliente,Apellido,Nombre,Dirección,Ciudad,IdOrden,FechaOrden,CanalCompra,MetodoPago,CantProductos,IdProducto,NombreProducto,CategoriaProducto,Peso,Precio
+1,García,Juan,Calle 123,Ciudad A,1001,2024-01-01,Tienda,Tarjeta,2,101,Manzanas,Frutas,2 kg,$5.00
+2,López,María,Av. Principal 456,Ciudad B,1002,2024-01-02,Online,PayPal,3,102,Zanahorias,Verduras,1 kg,$3.00
+3,Pérez,Luisa,Calle Central 789,Ciudad C,1003,2024-01-03,Tienda,Efectivo,1,103,Lechuga,Verduras,500 g,$2.50
+4,Martínez,Ana,Av. Libertador 321,Ciudad A,1004,2024-01-04,Tienda,Tarjeta,2,104,Fresas,Frutas,1 kg,$4.00
+5,Rodríguez,Carlos,Calle 567,Ciudad B,1005,2024-01-05,Online,PayPal,1,105,Espinacas,Verduras,500 g,$3.00
+6,Sánchez,Laura,Calle 890,Ciudad C,1006,2024-01-06,Tienda,Efectivo,2,106,Peras,Frutas,2 kg,$5.50
+7,González,Roberto,Av. Independencia,Ciudad A,1007,2024-01-07,Tienda,Efectivo,3,107,Plátanos,Frutas,3 kg,$6.00
+8,Díaz,Sofia,Calle 444,Ciudad B,1008,2024-01-08,Online,Tarjeta,1,108,Pimientos,Verduras,500 g,$4.00
+9,Vásquez,Alejandro,Calle 999,Ciudad C,1009,2024-01-09,Tienda,Efectivo,2,109,Uvas,Frutas,1.5 kg,$7.00
+10,Fernández,Andrea,Av. Principal 123,Ciudad A,1010,2024-01-10,Online,PayPal,2,110,Pepinos,Verduras,1 kg,$3.50
+1,García,Juan,Calle 123,Ciudad A,1021,2024-01-21,Online,PayPal,3,121,Tomates,Verduras,1 kg,$4.00
+2,López,María,Av. Principal 456,Ciudad B,1022,2024-01-22,Tienda,Efectivo,1,112,Berenjenas,Verduras,750 g,$3.00
+3,Pérez,Luisa,Calle Central 789,Ciudad C,1023,2024-01-23,Online,Tarjeta,2,113,Naranjas,Frutas,1 kg,$4.50
+4,Martínez,Ana,Av. Libertador 321,Ciudad A,1024,2024-01-24,Tienda,Efectivo,1,114,Sandías,Frutas,3 kg,$8.00
+5,Rodríguez,Carlos,Calle 567,Ciudad B,1025,2024-01-25,Online,PayPal,4,115,Papayas,Frutas,2 kg,$6.00
+6,Sánchez,Laura,Calle 890,Ciudad C,1026,2024-01-26,Tienda,Tarjeta,2,116,Espárragos,Verduras,500 g,$4.00
+7,González,Roberto,Av. Independencia,Ciudad A,1027,2024-01-27,Online,Efectivo,3,117,Melones,Frutas,2 kg,$7.50
+8,Díaz,Sofia,Calle 444,Ciudad B,1028,2024-01-28,Tienda,PayPal,1,118,Cerezas,Frutas,500 g,$5.00
+9,Vásquez,Alejandro,Calle 999,Ciudad C,1029,2024-01-29,Online,Tarjeta,2,119,Limones,Frutas,1 kg,$3.00
+10,Fernández,Andrea,Av. Principal 123,Ciudad A,1030,2024-01-30,Tienda,Efectivo,3,120,Uvas,Frutas,1.5 kg,$7.00

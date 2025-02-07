@@ -1,0 +1,11 @@
+idUsuario,email,contraseña,nombres,apellidos,sexo,fechaNacimiento,paísNacimiento,paísResidencia,idioma,fechaRegistro
+1,alex@gmail.com,81dc9bdb52d04dc20036dbd8313ed055,Alexander,Buenahora,M,27/08/1988,Colombia,España,Español,01/01/2020
+2,ernesto@hotmail.com,81b073de9370ea873f548e31b8adc081,Ernesto,Gonzalez,M,23/03/1980,Venezuela,Colombia,Español,20/12/2019
+3,rene.metodo@gmail.com,def7924e3199be5e18060bb3e1d547a7,René,Descartes,F,01/01/2000,Francia,Francia,Francés,13/07/2021
+4,fatima@yahoo.com,6562c5c1f33db6e05a082a88cddab5ea,Fatme,Issa,F,11/07/1976,Ecuador,Ecuador,Español,30/01/2021
+5,panteismo@gmail.com,674f3c2c1a8a6f90461e8a66fb5550ba,Baruch ,Spinoza,M,06/06/1970,Holanda,Portugal,Holandés,13/06/2020
+6,marie.curie@gmail.com,46d045ff5190f6ea93739da6c0aa19bc,Marie,Curie ,F,06/09/1992,Francia,Venezuela,Francés,12/05/2018
+7,ana.frank@hotmail.com,cdaeb1282d614772beb1e74c192bebda,Ana,Frank,F,22/06/1998,Alemania,Alemania,Alemán,24/02/2017
+8,piedad.bonnett@gmail.com,f4d87ed3b0dbf9c79746d00cedbb5e78,Piedad,Bonnett,F,15/06/1951,Colombia,Colombia,Español,17/06/2020
+9,elcontratosocial@yahoo.com,c5c53759e4dd1bfe8b3dcfec37d0ea72,Jean-Jacques,Rousseau,M,08/08/1987,Suiza,Francia,Francés,12/09/2020
+10,laciencia.bunge@hotmail.com,eb62f6b9306db575c2d596b1279627a4,Mario,Bunge,M,21/09/1919,Argentina,Cánada,Español,08/11/2020
